@@ -9,6 +9,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 export const homepageText = `
   <p>Willkommen auf unserer Langen Dynasty IDP Website!</p>
   <p>Hier können wir einen wunderbaren Überblick über unsere Liga erhalten. Alle Funktionen sollten selbsterklärend sein.</p>
+  <p> Folgende Funktionen sind hier verfügbar: PowerRankings, MatchUps, Trades & Waiver Wire, League Info & Ressourcen. Die Constiutation ist noch nicht überarbeitet. </p>
 `;
 
 /*   STEP 3   */
